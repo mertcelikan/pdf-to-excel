@@ -5,7 +5,7 @@ Export your bills with pdf extension to excel table
 
   * [Package Installs](#package-installs)
   * [Usage](#Usage)
-  * [Screenshots](#screenshots)
+  * [ScreenShoots](#screenshoots)
   * [Files](#files)
   * [License](#license)
 
