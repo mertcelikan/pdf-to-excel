@@ -1,5 +1,5 @@
 # PDF TO EXCEL
-Export your cvs with pdf extension to excel table
+Export your bills with pdf extension to excel table
 
 ## Table Of Content
 
